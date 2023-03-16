@@ -1,0 +1,46 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#headline {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.download-container {
+    display:flex;
+    justify-content: center;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#waterfall-video {
+    display:flex;
+    justify-content:center;
+    margin-top: 25px;
+}
+
+#travel-guide {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#remembers p {
+    color: gray;
+    font-size: 21px;
+}
+
+#phone-container {
+    margin-top: 25px;
+}
+
+footer p {
+    text-align: right;
+    color: gray;
+}
